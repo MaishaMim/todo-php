@@ -3,7 +3,7 @@
 session_start();
 
 
-$DB_HOST = '127.0.0.1:3325';
+$DB_HOST = 'Localhost';
 $DB_NAME = 'todo_app';
 $DB_USER = 'root';
 $DB_PASS = 'password';
